@@ -6,8 +6,9 @@ This project demonstrates the automation of interactions between the DMoney user
 
 ## Prerequisites
 - Postman
-- Node.js
 - Newman
+- Node.js
+- JavaScripts
 - Git
 - VS Code
 
