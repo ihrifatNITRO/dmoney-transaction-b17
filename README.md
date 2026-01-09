@@ -8,7 +8,7 @@ This project demonstrates the automation of interactions between the DMoney user
 - Postman
 - Newman
 - Node.js
-- JavaScripts
+- JavaScript
 - Git
 - VS Code
 
